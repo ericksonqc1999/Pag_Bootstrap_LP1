@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap_Clase",
+  "authors": [
+    "ericksonqc1999 <ericksonraulquispechurata1999@gmail.com>"
+  ],
+  "description": "pag_bootstrap",
+  "main": "",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "bootswatch": "^4.0.0+1",
+    "jquery": "3.2.1",
+    "@fortawesome/fontawesome": "^5.0.9"
+  }
+}
